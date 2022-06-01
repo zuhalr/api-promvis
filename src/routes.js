@@ -4,7 +4,7 @@ const routes = [
   {
     method: 'GET',
     path: '/fakultas',
-    handler: getFakultas,
+    handler: getFakultasHandler,
   },
 ]
 
