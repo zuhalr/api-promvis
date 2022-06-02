@@ -65,7 +65,7 @@ const fakultas = [
   {
     slug: 'fip',
     name: 'FIP',
-    url_image: 'images/fakultas/FIP.png',
+    url_image: 'http://165.22.109.98:9999/img/FIP.png',
     full_name: 'Fakultas Ilmu Pendidikan',
     gallery: [
       'http://165.22.109.98:9999/img/FIP.png',
@@ -153,28 +153,28 @@ const fakultas = [
     url_image: 'http://165.22.109.98:9999/img/FPEB.jpeg',
   },
   {
-    name: 'Kampus Daerah Tasikmalaya',
-    slug: 'kampus_daerah_tasikmalaya',
+    name: 'Tasikmalaya',
+    slug: 'tasikmalaya',
     url_image: 'http://165.22.109.98:9999/img/Tasikmalaya.jpg',
   },
   {
-    name: 'Kampus Daerah Cibiru',
-    slug: 'kampus_daerah_cibiru',
+    name: 'Cibiru',
+    slug: 'cibiru',
     url_image: 'http://165.22.109.98:9999/img/Cibiru.jpeg',
   },
   {
-    name: 'Kampus Daerah Sumedang',
-    slug: 'kampus_daerah_sumedang',
+    name: 'Sumedang',
+    slug: 'sumedang',
     url_image: 'http://165.22.109.98:9999/img/Sumedang.jpg',
   },
   {
-    name: 'Kampus Daerah Purwakarta',
-    slug: 'kampus_daerah_purwakarta',
+    name: 'Purwakarta',
+    slug: 'purwakarta',
     url_image: 'http://165.22.109.98:9999/img/Purwakarta.jpg',
   },
   {
-    name: 'Kampus Daerah Serang',
-    slug: 'kampus_daerah_serang',
+    name: 'Serang',
+    slug: 'serang',
     url_image: 'http://165.22.109.98:9999/img/Serang.jpg',
   },
 ]
