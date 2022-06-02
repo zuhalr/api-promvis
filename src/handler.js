@@ -15,7 +15,7 @@ const getDetailFakultasHandler = (request, h) => {
     return h
       .response({
         status: 'error',
-        message: 'Fakultas not found',
+        message: 'Fakultas not found', 
       })
       .code(404)
   }
