@@ -3,6 +3,7 @@ const baseImagePath = './public/images/fakultas/'
 
 const fakultas = [
   {
+    slug: 'fpmipa',
     name: 'FPMIPA',
     url_image: 'http://165.22.109.98:9999/img/FPMIPA.jpg',
     full_name: 'Fakultas Pendidikan Matematika dan Ilmu Pengetahuan Alam',
