@@ -126,12 +126,12 @@ const fakultas = [
           },
         ],
       },
-      { name: 'FPIPS', url_image: 'images/fakultas/FPIPS.jpg' },
-      { name: 'FPBS', url_image: 'images/fakultas/FPBS.jpg' },
-      { name: 'FPSD', url_image: 'images/fakultas/FPSD.jpg' },
-      { name: 'FPTK', url_image: 'images/fakultas/FPTK.jpg' },
-      { name: 'FPOK', url_image: 'images/fakultas/FPOK.jpg' },
-      { name: 'FPEB', url_image: 'images/fakultas/FPEB.jpeg' },
+      { name: 'FPIPS', url_image: 'http://165.22.109.98:9999/img/FPIPS.jpg' },
+      { name: 'FPBS', url_image: 'http://165.22.109.98:9999/img/FPBS.jpg' },
+      { name: 'FPSD', url_image: 'http://165.22.109.98:9999/img/FPSD.jpg' },
+      { name: 'FPTK', url_image: 'http://165.22.109.98:9999/img/FPTK.jpg' },
+      { name: 'FPOK', url_image: 'http://165.22.109.98:9999/img/FPOK.jpg' },
+      { name: 'FPEB', url_image: 'http://165.22.109.98:9999/img/FPEB.jpeg' },
     ],
   },
   {
@@ -140,21 +140,24 @@ const fakultas = [
     data: [
       {
         name: 'Kampus Daerah Tasikmalaya',
-        url_image: 'images/fakultas/Tasikmalaya.jpg',
+        url_image: 'http://165.22.109.98:9999/img/Tasikmalaya.jpg',
       },
       {
         name: 'Kampus Daerah Cibiru',
-        url_image: 'images/fakultas/Cibiru.jpeg',
+        url_image: 'http://165.22.109.98:9999/img/Cibiru.jpeg',
       },
       {
         name: 'Kampus Daerah Sumedang',
-        url_image: 'images/fakultas/Sumedang.jpg',
+        url_image: 'http://165.22.109.98:9999/img/Sumedang.jpg',
       },
       {
         name: 'Kampus Daerah Purwakarta',
-        url_image: 'images/fakultas/Purwakarta.jpg',
+        url_image: 'http://165.22.109.98:9999/img/Purwakarta.jpg',
       },
-      { name: 'Kampus Daerah Serang', url_image: 'images/fakultas/Serang.jpg' },
+      {
+        name: 'Kampus Daerah Serang',
+        url_image: 'http://165.22.109.98:9999/img/Serang.jpg',
+      },
     ],
   },
 ]
