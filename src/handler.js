@@ -3,7 +3,7 @@ const fakultas = require('./fakultas')
 const getAllFakultasHandler = () => ({
   status: 'success',
   data: {
-    ...fakultas,
+    fakultas,
   },
 })
 
