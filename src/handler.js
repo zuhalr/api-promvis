@@ -1,11 +1,19 @@
 const fakultas = require('./fakultas')
+const dosen = require('./dosen')
 
 const getAllFakultasHandler = () => ({
   status: 'success',
   data: {
-    fakultas,
+    fakultas
   },
 })
+const getAllDosenHandler = () => ({
+  status: 'success',
+  data: {
+    dosen
+  },
+})
+
 
 const getDetailFakultasHandler = (request, h) => {
   const { slug } = request.params
@@ -30,4 +38,5 @@ const getDetailFakultasHandler = (request, h) => {
 module.exports = {
   getAllFakultasHandler,
   getDetailFakultasHandler,
+  getAllDosenHandler,
 }

@@ -184,5 +184,4 @@ const fakultas = [
     url_image: 'http://localhost:3000/img/Serang.jpg',
   },
 ]
-
 module.exports = fakultas
