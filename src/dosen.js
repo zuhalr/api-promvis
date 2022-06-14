@@ -6,37 +6,9 @@ const dosen = [
     nama: "Rasim",
     jabatan: "lektor",
     slug: 's1-pendidikan-ilmu-komputer',
-    riwayat_pendidikan:[
-      {
-        univ: "STMIK IM",
-        jenjang :"S1"
-      },{
-        univ: "ITB",
-        jenjang :"S2"
-      },{
-        univ: "ITB",
-        jenjang :"S3"
-      },
-    ],
-    riwayat_pengajaran:[
-      {
-      matkul : "PROJECT KEAHLIAN",
-      semester : "Genap 2020"
-      },{
-        matkul : "SISTEM PENDUKUNG KEPUTUSAN",
-        semester : "Genap 2020"
-      }
-    ],
-    riwayat_prestasi:[
-      {
-        nama: "10 Besar Dosen Terbaik FPMIPA UPI",
-        tahun: "2020"
-      },
-      {
-        nama: "Pembimbing Finalis Gemastik ICT Scientific Paper",
-        tahun: "2021"
-      },
-    ]
+    riwayat_pendidikan: '- STMIK IM S1\n - ITB S2\n - ITB S2',  
+    riwayat_pengajaran:'- PROJECT KEAHLIAN Genap 2020\n - SISTEM PENDUKUNG KEPUTUSAN Genap 2020 ' ,
+    riwayat_prestasi:'- 10 Besar Dosen Terbaik FPMIPA UPI 2020\n - Pembimbing Finalis Gemastik ICT Scientific Paper 2021 ' ,   
   },
 ]
 
