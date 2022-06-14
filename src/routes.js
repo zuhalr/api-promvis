@@ -1,4 +1,4 @@
-const { getAllFakultasHandler, getDetailFakultasHandler,getAllProdiHandler,getAllDosenHandler } = require('./handler')
+const { getAllFakultasHandler, getDetailFakultasHandler,getAllProdiHandler,getAllFasilitasHandler,getAllDosenHandler } = require('./handler')
 
 const routes = [
   {
@@ -10,6 +10,11 @@ const routes = [
     method: 'GET',
     path: '/prodi',
     handler: getAllProdiHandler,
+  },
+  {
+    method: 'GET',
+    path: '/fasilitas',
+    handler: getAllFasilitasHandler,
   },
   {
     method: 'GET',
