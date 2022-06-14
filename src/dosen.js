@@ -5,6 +5,7 @@ const dosen = [
   {
     nama: "Rasim",
     jabatan: "lektor",
+    slug: 's1-pendidikan-ilmu-komputer',
     riwayat_pendidikan:[
       {
         univ: "STMIK IM",
