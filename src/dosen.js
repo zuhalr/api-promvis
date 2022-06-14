@@ -20,21 +20,21 @@ const dosen = [
     ],
     riwayat_pengajaran:[
       {
-      matkul : "nama matkul",
-      semester : "Genap 2004"
+      matkul : "PROJECT KEAHLIAN",
+      semester : "Genap 2020"
       },{
-        matkul : "nama matkul",
-        semester : "Genap 2004"
+        matkul : "SISTEM PENDUKUNG KEPUTUSAN",
+        semester : "Genap 2020"
       }
     ],
     riwayat_prestasi:[
       {
-        nama: "nama prestasi",
-        tahun: "tahun prestasi"
+        nama: "10 Besar Dosen Terbaik FPMIPA UPI",
+        tahun: "2020"
       },
       {
-        nama: "nama prestasi",
-        tahun: "tahun prestasi"
+        nama: "Pembimbing Finalis Gemastik ICT Scientific Paper",
+        tahun: "2021"
       },
     ]
   },
