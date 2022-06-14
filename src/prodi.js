@@ -3,7 +3,12 @@ const baseImagePath = './public/images/fakultas/'
 
 const prodi  = [
     {
-      name: 'Pendidikan Matematika',
+      name: 'Pendidikan Matematika', 
+      jml_mahasiswa: 200,
+      jml_dosen: 40 , 
+      wkt_lulus:'4.5 Tahun',
+      kerjasama:' - 2020 UN\n - 2021 UM', 
+      ratio: '1: 5',
       jenjang: 'S1',
       akreditasi: 'A',
       url_image: 'http://localhost:3000/img/FIP.png',
