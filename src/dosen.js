@@ -6,6 +6,8 @@ const dosen = [
   {
     nama: "Rasim",
     jabatan: "lektor",
+    pendidikan : "S3",
+    status:"tetap",
     slug: 's1-ilmu-komputer',
     url_image: 'http://localhost:3000/img/profile.png',
     riwayat_pendidikan: '- STMIK IM S1\n - Institut Teknologi Bandung S2\n - Institut Teknologi Bandung S3',  
@@ -15,6 +17,8 @@ const dosen = [
   {
     nama: "Rosa Ariani Sukamto",
     jabatan: "lektor",
+    pendidikan : "S2",
+    status:"tetap",
     slug: 's1-ilmu-komputer',
     url_image: 'http://localhost:3000/img/women.png',
     riwayat_pendidikan: '- Institut Teknologi Bandung S1\n - Institut Teknologi Bandung S2',  
@@ -24,6 +28,8 @@ const dosen = [
   {
     nama: "Eddy Prasetyo Nugroho",
     jabatan: "lektor",
+    pendidikan : "S2",
+    status:"tetap",
     slug: 's1-ilmu-komputer',
     url_image: 'http://localhost:3000/img/profile.png',
     riwayat_pendidikan: '- Sekolah Tinggi Teknologi Telkom S1\n - Institut Teknologi Bandung S2',  
@@ -33,6 +39,8 @@ const dosen = [
   {
     nama: "Rizky Rachman Judhie P",
     jabatan: "lektor",
+    pendidikan : "S2",
+    status:"tetap",
     slug: 's1-ilmu-komputer',
     url_image: 'http://localhost:3000/img/profile.png',
     riwayat_pendidikan: '- Universitas Gunadarma S1\n - Universitas Gadjah Mada S2',  
@@ -42,6 +50,8 @@ const dosen = [
   {
     nama: "Jajang Kusnendar",
     jabatan: "lektor",
+    pendidikan : "S2",
+    status:"tetap",
     slug: 's1-pendidikan-ilmu-komputer',
     url_image: 'http://localhost:3000/img/profile.png',
     riwayat_pendidikan: '- 	STMIK Bandung S1\n - Institut Teknologi Bandung S2',  
@@ -51,6 +61,8 @@ const dosen = [
   {
     nama: "Diah Kusumawaty",
     jabatan: "lektor",
+    pendidikan : "S3",
+    status:"tetap",
     slug: 's1-biologi',
     url_image: 'http://localhost:3000/img/women.png',
     riwayat_pendidikan: '- 	Institut Teknologi Bandung S1\n - Institut Teknologi Bandung S2\n - Institut Teknologi Bandung S3',  
@@ -60,6 +72,8 @@ const dosen = [
   {
     nama: "Mimin Nurjhani K",
     jabatan: "lektor",
+    pendidikan : "S3",
+    status:"tetap",
     slug: 's1-pendidikan-biologi',
     url_image: 'http://localhost:3000/img/profile.png',
     riwayat_pendidikan: '- 	Universitas Pendidikan Indonesia S1\n - Universitas Pendidikan Indonesia S2\n - Universitas Pendidikan Indonesia S3',  
@@ -69,6 +83,8 @@ const dosen = [
   {
     nama: "Moh. Arifin",
     jabatan: "lektor",
+    pendidikan : "S3",
+    status:"tetap",
     slug: 's1-fisika',
     url_image: 'http://localhost:3000/img/profile.png',
     riwayat_pendidikan: '- 	Universitas Pendidikan Indonesia S1\n - Australian National University S2\n - Hokkaido University S3',  
@@ -78,6 +94,8 @@ const dosen = [
   {
     nama: "Hera Novia",
     jabatan: "lektor",
+    pendidikan : "S3",
+    status:"tetap",
     slug: 's1-pendidikan-fisika',
     url_image: 'http://localhost:3000/img/women.png',
     riwayat_pendidikan: '- 	Institut Teknologi Bandung S1\n - Institut Teknologi Bandung S2\n - Universitas Pendidikan Indonesia S3',  
@@ -87,6 +105,8 @@ const dosen = [
   {
     nama: "Soja Siti Fatimah",
     jabatan: "lektor",
+    pendidikan : "S3",
+    status:"tetap",
     slug: 's1-kimia',
     url_image: 'http://localhost:3000/img/women.png',
     riwayat_pendidikan: '- Universitas Padjadjaran S1\n - Universitas Padjadjaran S2\n - Universitas Padjadjaran S3',  
@@ -96,6 +116,8 @@ const dosen = [
   {
     nama: "Sri Mulyani",
     jabatan: "lektor",
+    pendidikan : "S3",
+    status:"tetap",
     slug: 's1-pendidikan-kimia',
     url_image: 'http://localhost:3000/img/women.png',
     riwayat_pendidikan: '- Universitas Pendidikan Indonesia S1\n - Institut Teknologi Bandung S2\n - Universitas Pendidikan Indonesia S3',  
@@ -105,6 +127,8 @@ const dosen = [
   {
     nama: "Cece Kustiawan",
     jabatan: "lektor",
+    pendidikan : "S3",
+    status:"tetap",
     slug: 's1-matematika',
     url_image: 'http://localhost:3000/img/women.png',
     riwayat_pendidikan: '- Universitas Pendidikan Indonesia S1\n - Universitas Gadjah Mada S2\n - Institut Teknologi Bandung S3',  
@@ -114,6 +138,8 @@ const dosen = [
   {
     nama: "Dian Usdiyana",
     jabatan: "lektor",
+    pendidikan : "S3",
+    status:"tetap",
     slug: 's1-pendidikan-matematika',
     url_image: 'http://localhost:3000/img/women.png',
     riwayat_pendidikan: '- Universitas Pendidikan Indonesia S1\n - Universitas Gadjah Mada S2\n - Universitas Pendidikan Indonesia S3',  
@@ -123,6 +149,8 @@ const dosen = [
   {
     nama: "Rika Rafikah Agustin",
     jabatan: "lektor",
+    pendidikan : "S2",
+    status:"tetap",
     slug: 's1-ipse',
     url_image: 'http://localhost:3000/img/women.png',
     riwayat_pendidikan: '- Universitas Pendidikan Indonesia S1\n - Universitas Pendidikan Indonesia S2',  
@@ -133,6 +161,8 @@ const dosen = [
   {
     nama: "Asra",
     jabatan: "lektor",
+    pendidikan : "S2",
+    status:"tetap",
     slug: 's1-teknologi-pendidikan',
     url_image: 'http://localhost:3000/img/women.png',
     riwayat_pendidikan: '- Universitas Negeri Jakarta S1\n - Universiti Malaya S2',  
@@ -142,6 +172,8 @@ const dosen = [
   {
     nama: "Yayah Rahyasih",
     jabatan: "lektor",
+    pendidikan : "S3",
+    status:"tetap",
     slug: 's1-administrasi-pendidikan',
     url_image: 'http://localhost:3000/img/women.png',
     riwayat_pendidikan: '- Universitas Negeri Jakarta S1\n - Universitas Pendidikan Indonesia S2\n - Universitas Pendidikan Indonesia S3',  
@@ -151,6 +183,8 @@ const dosen = [
   {
     nama: "Herlina",
     jabatan: "lektor",
+    pendidikan : "S3",
+    status:"tetap", 
     slug: 's1-psikologi',
     url_image: 'http://localhost:3000/img/women.png',
     riwayat_pendidikan: '- Universitas Indonesia S1\n - Universitas Pendidikan Indonesia S2\n - Universitas Pendidikan Indonesia S3',  
@@ -160,6 +194,8 @@ const dosen = [
   {
     nama: "Neni Meiyani",
     jabatan: "lektor",
+    pendidikan : "S3",
+    status:"tetap",
     slug: 's1-pendidikan-khusus',
     url_image: 'http://localhost:3000/img/women.png',
     riwayat_pendidikan: '- Universitas Pendidikan Indonesia S1\n - Universitas Pendidikan Indonesia S2\n - Universitas Pendidikan Indonesia S3',  
@@ -170,6 +206,8 @@ const dosen = [
   {
     nama: "Fauzi Rahmanullah",
     jabatan: "lektor",
+    pendidikan : "S2",
+    status:"tetap",
     slug: 's1-pendidikan-teknik-arsitektur',
     url_image: 'http://localhost:3000/img/women.png',
     riwayat_pendidikan: '- Universitas Pendidikan Indonesia S1\n - Institut Teknologi Bandung S2',  
@@ -179,6 +217,8 @@ const dosen = [
   {
     nama: "Dandhi Kuswardhana",
     jabatan: "lektor",
+    pendidikan : "S3",
+    status:"tetap",
     slug: 's1-pendidikan-teknik-elektro',
     url_image: 'http://localhost:3000/img/profile.png',
     riwayat_pendidikan: '- Universitas Pendidikan Indonesia S1\n - Institut Teknologi Bandung S2\n - Japan Advanced Institute Of Science And Technology S3',  
@@ -188,6 +228,8 @@ const dosen = [
   {
     nama: "Erna Krisnanto",
     jabatan: "lektor",
+    pendidikan : "S3",
+    status:"tetap",
     slug: 's1-arsitektur',
     url_image: 'http://localhost:3000/img/women.png',
     riwayat_pendidikan: '- Universitas Gadjah Mada S1\n - Institut Teknologi Bandung S2',  
@@ -197,6 +239,8 @@ const dosen = [
   {
     nama: "Dadang Lukman Hakim",
     jabatan: "lektor",
+    pendidikan : "S3",
+    status:"tetap",
     slug: 's1-teknik-elektro',
     url_image: 'http://localhost:3000/img/profile.png',
     riwayat_pendidikan: '- Universitas Teknologi Surabaya S1\n - Institut Teknologi Bandung S2\n - Universitas Pendidikan Indonesia S3',  
@@ -207,6 +251,8 @@ const dosen = [
   {
     nama: "Nidaul Hidayah",
     jabatan: "lektor",
+    pendidikan : "S3",
+    status:"tetap",
     slug: 's1-pko',
     url_image: 'http://localhost:3000/img/profile.png',
     riwayat_pendidikan: '- Universitas Padjadjaran S1\n - Institut Teknologi Bandung S2\n - Universitas Pendidikan Indonesia S3',  
@@ -216,6 +262,8 @@ const dosen = [
   {
     nama: "Jajat Darajat Kusumah N",
     jabatan: "lektor",
+    pendidikan : "S3",
+    status:"tetap",
     slug: 's1-pjkr',
     url_image: 'http://localhost:3000/img/profile.png',
     riwayat_pendidikan: '- Universitas Pendidikan Indonesia S1\n - Universitas Padjadjaran S2\n - Universitas Indonesia S3',  
@@ -225,6 +273,8 @@ const dosen = [
   {
     nama: "Didin Budiman",
     jabatan: "lektor",
+    pendidikan : "S3",
+    status:"tetap",
     slug: 's1-pendidikan-jasmani',
     url_image: 'http://localhost:3000/img/profile.png',
     riwayat_pendidikan: '- Universitas Pendidikan Indonesia S1\n - Universitas Pendidikan Indonesia S2',  
@@ -234,6 +284,8 @@ const dosen = [
   {
     nama: "Ahmad Hamidi",
     jabatan: "lektor",
+    pendidikan : "S3",
+    status:"tetap",
     slug: 's1-ilmu-keolahragaan',
     url_image: 'http://localhost:3000/img/profile.png',
     riwayat_pendidikan: '- Universitas Pendidikan Indonesia S1\n - Universitas Pendidikan Indonesia S2\n - Univesitas Negeri Jakarta S3',  

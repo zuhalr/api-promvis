@@ -19,7 +19,7 @@ const prodi  = [
       wkt_lulus:'4.5 Tahun',
       kerjasama:' - 2020 UN\n - 2021 UM', 
       ratio: '1: 5',
-      fakultas: 'fpmipa',
+      fakultas: 'FPMIPA',
     },
     {
       name: 'Pendidikan Biologi',
@@ -37,7 +37,7 @@ const prodi  = [
       wkt_lulus:'4.5 Tahun',
       kerjasama:' - 2020 UN\n - 2021 UM', 
       ratio: '1: 5',
-      fakultas: 'fpmipa', 
+      fakultas: 'FPMIPA', 
     },
     {
       name: 'Pendidikan Kimia',
@@ -55,7 +55,7 @@ const prodi  = [
       wkt_lulus:'4.5 Tahun',
       kerjasama:' - 2020 UN\n - 2021 UM', 
       ratio: '1: 5',
-      fakultas: 'fpmipa',
+      fakultas: 'FPMIPA',
     },
     {
       name: 'Pendidikan Fisika',
@@ -73,7 +73,7 @@ const prodi  = [
       wkt_lulus:'4.5 Tahun',
       kerjasama:' - 2020 UN\n - 2021 UM', 
       ratio: '1: 5',
-      fakultas: 'fpmipa',
+      fakultas: 'FPMIPA',
     },
     {
       name: 'Pendidikan Ilmu Komputer', 
@@ -91,7 +91,7 @@ const prodi  = [
       wkt_lulus:'4.5 Tahun',
       kerjasama:' - 2020 UN\n - 2021 UM', 
       ratio: '1: 5',
-      fakultas: 'fpmipa',
+      fakultas: 'FPMIPA',
     },
     {
       name: 'Matematika', 
@@ -109,7 +109,7 @@ const prodi  = [
       wkt_lulus:'4.5 Tahun',
       kerjasama:' - 2020 UN\n - 2021 UM', 
       ratio: '1: 5',
-      fakultas: 'fpmipa',
+      fakultas: 'FPMIPA',
     },
     {
       name: 'Biologi', 
@@ -127,7 +127,7 @@ const prodi  = [
       wkt_lulus:'4.5 Tahun',
       kerjasama:' - 2020 UN\n - 2021 UM', 
       ratio: '1: 5',
-      fakultas: 'fpmipa', 
+      fakultas: 'FPMIPA', 
     },
     {
       name: 'Kimia', 
@@ -145,7 +145,7 @@ const prodi  = [
       wkt_lulus:'4.5 Tahun',
       kerjasama:' - 2020 UN\n - 2021 UM', 
       ratio: '1: 5',
-      fakultas: 'fpmipa',
+      fakultas: 'FPMIPA',
     },
     {
       name: 'Fisika', 
@@ -163,7 +163,7 @@ const prodi  = [
       wkt_lulus:'4.5 Tahun',
       kerjasama:' - 2020 UN\n - 2021 UM', 
       ratio: '1: 5',
-      fakultas: 'fpmipa',
+      fakultas: 'FPMIPA',
     },
     {
       name: 'Ilmu Komputer', 
@@ -181,7 +181,7 @@ const prodi  = [
       wkt_lulus:'4.5 Tahun',
       kerjasama:' - 2020 UN\n - 2021 UM', 
       ratio: '1: 5',
-      fakultas: 'fpmipa',
+      fakultas: 'FPMIPA',
     },
     {
       name: 'International Program on Science Education',  
@@ -199,7 +199,7 @@ const prodi  = [
       wkt_lulus:'4.5 Tahun',
       kerjasama:' - 2020 UN\n - 2021 UM', 
       ratio: '1: 5',
-      fakultas: 'fpmipa',
+      fakultas: 'FPMIPA',
     },
 
 
@@ -215,7 +215,7 @@ const prodi  = [
       wkt_lulus:'4.5 Tahun',
       kerjasama:' - 2020 UN\n - 2021 UM', 
       ratio: '1: 5',
-      fakultas: 'fip',
+      fakultas: 'FIP',
     },
     {
       name: 'Psikologi',
@@ -228,7 +228,7 @@ const prodi  = [
       wkt_lulus:'4.5 Tahun',
       kerjasama:' - 2020 UN\n - 2021 UM', 
       ratio: '1: 5',
-      fakultas: 'fip', 
+      fakultas: 'FIP', 
     },
     {
       name: 'Pendidikan Khusus',
@@ -241,7 +241,7 @@ const prodi  = [
       wkt_lulus:'4.5 Tahun',
       kerjasama:' - 2020 UN\n - 2021 UM', 
       ratio: '1: 5',
-      fakultas: 'fip',
+      fakultas: 'FIP',
     },
     {
       name: 'Teknologi Pendidikan',
@@ -254,7 +254,7 @@ const prodi  = [
       wkt_lulus:'4.5 Tahun',
       kerjasama:' - 2020 UN\n - 2021 UM', 
       ratio: '1: 5',
-      fakultas: 'fip',
+      fakultas: 'FIP',
     },
     //Prodi FPTK
     {
@@ -268,7 +268,7 @@ const prodi  = [
       wkt_lulus:'4.5 Tahun',
       kerjasama:' - 2020 UN\n - 2021 UM', 
       ratio: '1: 5',
-      fakultas: 'fptk',
+      fakultas: 'FPTK',
     },
     {
       name: 'Pendidikan Teknik Elektro',
@@ -281,7 +281,7 @@ const prodi  = [
       wkt_lulus:'4.5 Tahun',
       kerjasama:' - 2020 UN\n - 2021 UM', 
       ratio: '1: 5',
-      fakultas: 'fptk', 
+      fakultas: 'FPTK', 
     },
     {
       name: 'Arsitektur',
@@ -294,7 +294,7 @@ const prodi  = [
       wkt_lulus:'4.5 Tahun',
       kerjasama:' - 2020 UN\n - 2021 UM', 
       ratio: '1: 5',
-      fakultas: 'fptk',
+      fakultas: 'FPTK',
     },
     {
       name: 'Teknik Elektro',
@@ -307,7 +307,7 @@ const prodi  = [
       wkt_lulus:'4.5 Tahun',
       kerjasama:' - 2020 UN\n - 2021 UM', 
       ratio: '1: 5',
-      fakultas: 'fptk', 
+      fakultas: 'FPTK', 
     },
     
 
@@ -323,7 +323,7 @@ const prodi  = [
       wkt_lulus:'4.5 Tahun',
       kerjasama:' - 2020 UN\n - 2021 UM', 
       ratio: '1: 5',
-      fakultas: 'fpok',
+      fakultas: 'FPOK',
     },
     {
       name: 'Pendidikan Jasmani, Kesehatan dan Rekreasi',
@@ -349,7 +349,7 @@ const prodi  = [
       wkt_lulus:'4.5 Tahun',
       kerjasama:' - 2020 UN\n - 2021 UM', 
       ratio: '1: 5',
-      fakultas: 'fpok',
+      fakultas: 'FPOK',
     },
     {
       name: 'Ilmu Keolahragaan',
@@ -362,7 +362,7 @@ const prodi  = [
       wkt_lulus:'4.5 Tahun',
       kerjasama:' - 2020 UN\n - 2021 UM', 
       ratio: '1: 5',
-      fakultas: 'fpok',
+      fakultas: 'FPOK',
     },
   ]  
 
