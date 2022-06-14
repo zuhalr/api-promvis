@@ -21,8 +21,7 @@ const fakultas = [
     wkt_lulus:'4.5 Tahun',
     kerjasama:' - 2020 UN\n - 2021 UM',
     fasilitas: ' - Kantin\n - Student Corner',
-    ratio: '1:7.5',
-    avg_study_time: '3.5',
+    ratio: '1:7.5', 
     prodi: [
       {
         name: 'Pendidikan Matematika',
@@ -87,8 +86,7 @@ const fakultas = [
     wkt_lulus:'4.5 Tahun',
     kerjasama:' - 2020 UN\n - 2021 UM',
     fasilitas: ' - Kantin\n - Student Corner',
-    ratio: '1:7.5',
-    avg_study_time: '3.5',
+    ratio: '1:7.5', 
     prodi: [
       {
         name: 'Pendidikan Matematika',
