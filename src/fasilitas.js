@@ -3,14 +3,29 @@ const baseImagePath = './public/images/fasilitas/'
 
 const fasilitas  = [
     {
+      name: 'Masjid Al-Furqon', 
+      url_image: 'http://localhost:3000/img/fasilitas/masjid.jpg', 
+      fakultas: 'FIP',
+    },
+    {
+      name: 'Asrama', 
+      url_image: 'http://localhost:3000/img/fasilitas/dorm.jpg', 
+      fakultas: 'FIP',
+    }, 
+    {
+      name: 'Partere', 
+      url_image: 'http://localhost:3000/img/fasilitas/partere.jpg', 
+      fakultas: 'FIP',
+    }, 
+    {
       name: 'Student Corner', 
       url_image: 'http://localhost:3000/img/fasilitas/sc.png', 
       fakultas: 'FPMIPA',
     },
     {
-        name: 'Auditorium', 
-        url_image: 'http://localhost:3000/img/fasilitas/audit-jica.jpeg', 
-        fakultas: 'FPMIPA',
+      name: 'Auditorium', 
+      url_image: 'http://localhost:3000/img/fasilitas/audit-jica.jpeg', 
+      fakultas: 'FPMIPA',
     }, 
     {
       name: 'Lab. Komputer', 
