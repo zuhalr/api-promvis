@@ -66,7 +66,7 @@ const prodi  = [
       kerjasama:' - 2020 UN\n - 2021 UM', 
       ratio: '1: 5',
       akreditasi: 'A',
-      url_image: 'http://localhost:3000/img/pendfis.jpgg',
+      url_image: 'http://localhost:3000/img/pendfis.jpg',
       slug: 's1-pendidikan-fisika',
       jml_mahasiswa: 200,
       jml_dosen: 40 , 
