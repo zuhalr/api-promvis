@@ -5,17 +5,17 @@ const fasilitas  = [
     {
       name: 'Masjid Al-Furqon', 
       url_image: 'http://localhost:3000/img/fasilitas/masjid.jpg', 
-      fakultas: 'FIP',
+      fakultas: 'UPI',
     },
     {
       name: 'Asrama', 
       url_image: 'http://localhost:3000/img/fasilitas/dorm.jpg', 
-      fakultas: 'FIP',
+      fakultas: 'UPI',
     }, 
     {
       name: 'Partere', 
       url_image: 'http://localhost:3000/img/fasilitas/partere.jpg', 
-      fakultas: 'FIP',
+      fakultas: 'UPI',
     }, 
     {
       name: 'Student Corner', 
